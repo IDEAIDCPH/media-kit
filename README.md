@@ -1,10 +1,18 @@
-media-kit
+Media Kit
 =========
 
-/logo      Logos in EPS, SVG and PNG format
+Folders
+-------
+
+    /logo      Logos in EPS, SVG and PNG format
 
 
-| Colors |   Hex   |        RGB      |         HSL        |           CMYK           |
+
+Colours
+-------
+
+
+| Colours |   Hex   |        RGB      |         HSL        |           CMYK           |
 |:------:|:-------:|:---------------:|:------------------:|:------------------------:|
 | Black  | #20202D | ( 32,  32,  45) | (240°,  28%,  17%) | ( 80%,  75%,  54%,  66%) |
 | Green  | #47DA54 | ( 71, 218,  84) | (124°,  67%,  85%) | ( 63%,   0%,  92%,   0%) |
