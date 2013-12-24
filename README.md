@@ -1,4 +1,4 @@
 media-kit
 =========
 
-Media kit for IDEAID CPH 2014
+/logo      Logos in EPS, SVG and PNG format
